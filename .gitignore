@@ -1,0 +1,6 @@
+/Release/
+/Debug/
+/processtest/Release/
+/processtest/Debug/
+*.sdf
+*.suo
